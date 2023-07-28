@@ -1,0 +1,15 @@
+C:\Users\sebas\Desktop\Spreadex\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.exe
+C:\Users\sebas\Desktop\Spreadex\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.deps.json
+C:\Users\sebas\Desktop\Spreadex\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.runtimeconfig.json
+C:\Users\sebas\Desktop\Spreadex\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.dll
+C:\Users\sebas\Desktop\Spreadex\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.pdb
+C:\Users\sebas\Desktop\Spreadex\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.csproj.AssemblyReference.cache
+C:\Users\sebas\Desktop\Spreadex\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\Desktop\Spreadex\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.AssemblyInfoInputs.cache
+C:\Users\sebas\Desktop\Spreadex\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.AssemblyInfo.cs
+C:\Users\sebas\Desktop\Spreadex\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Desktop\Spreadex\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.dll
+C:\Users\sebas\Desktop\Spreadex\MyConsoleApp\obj\Debug\net7.0\refint\MyConsoleApp.dll
+C:\Users\sebas\Desktop\Spreadex\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.pdb
+C:\Users\sebas\Desktop\Spreadex\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.genruntimeconfig.cache
+C:\Users\sebas\Desktop\Spreadex\MyConsoleApp\obj\Debug\net7.0\ref\MyConsoleApp.dll

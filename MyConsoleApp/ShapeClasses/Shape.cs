@@ -1,0 +1,16 @@
+
+// Parent Class for the shapes, all shapes share X and Y
+
+namespace DrawingApp {
+
+	public class Shape : Printing {
+
+		public int X { get; set; }
+		public int Y { get; set; }
+
+		public virtual string Print(){
+			return $"({X}, {Y})";
+		}
+
+	}
+}
