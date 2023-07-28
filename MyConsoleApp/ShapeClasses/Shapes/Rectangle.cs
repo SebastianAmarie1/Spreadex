@@ -5,8 +5,26 @@ namespace DrawingApp {
 
 	public class Rectangle: Shape {
 
-		public int Width { get; set; }
-		public int Height { get; set; }
+		private int _width;
+		private int _height;
+		
+		public int Width { 
+			get { return _width; }
+			set {
+				if (value < 0)
+					throw new ArgumentException("Width must be a positive number");
+				_width = value;
+			} 
+		}
+		
+		public int Height { 
+			get { return _height; }
+			set {
+				if (value < 0)
+					throw new ArgumentException("Height must be a positive number");
+				_height = value;
+			} 
+		}
 
 		public override string Print() {
 			return $"Rectangle {base.Print()} width={Width} height={Height}";

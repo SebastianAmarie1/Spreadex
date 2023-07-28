@@ -5,8 +5,26 @@ namespace DrawingApp {
 
 	public class Ellipse: Shape {
 
-		public int DiameterH { get; set; }
-		public int DiameterV { get; set; }
+		private int _diameterh;
+		private int _diameterv;
+		
+		public int DiameterH { 
+			get { return _diameterh; }
+			set {
+				if (value < 0)
+					throw new ArgumentException("DiameterH must be a positive number");
+				_diameterh = value;
+			} 
+		}
+		
+		public int DiameterV { 
+			get { return _diameterv; }
+			set {
+				if (value < 0)
+					throw new ArgumentException("DiameterV must be a positive number");
+				_diameterv = value;
+			} 
+		}
 
 		//function that overrides the base parent class 
 		public override string Print() {
