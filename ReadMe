@@ -1,0 +1,23 @@
+
+Train Of Thought:
+I firstly noticed which shapes share which attributes. For example every shape share the 
+variables X and Y.
+Next I noticed that all shapes must have a print function to print out their features.
+I had to also ensure that the values were positive as you are unable to have negative sizes, diameters, ect.
+X and Y can be negative due to the fact that they are co-ordinates.
+
+
+Design Decisions:
+Printing.cs:
+This is a interface that will be used to print the details of each shape.
+
+Shape.cs:
+This will store all the details that are shared acrross all shapes such as X and Y.
+A function will also print the co-ordinates
+
+/Shapes:
+This will classes for all the shapes that are needed with the attributes needed.
+This will also contain a print statement that will display the attributes of the individual shape.
+
+DrawingApplication.cs:
+This will be used to create the shapes and print the details
