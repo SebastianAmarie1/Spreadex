@@ -20,7 +20,6 @@ class DrawingApplication {
 		Console.WriteLine("----------------------------------------------------------------");
         Console.WriteLine("Requested Drawing");
         Console.WriteLine("----------------------------------------------------------------");
-
         //Print Each Shape Out
         foreach (var shape in shapes){
             Console.WriteLine(shape.Print());

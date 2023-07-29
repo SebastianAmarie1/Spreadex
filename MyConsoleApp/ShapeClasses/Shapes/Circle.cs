@@ -16,7 +16,6 @@ namespace DrawingApp {
 			} 
 		}
 
-
         public override string Print() {
             return $"Circle {base.Print()} size ={Size}";
         }
