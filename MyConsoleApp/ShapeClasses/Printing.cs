@@ -3,7 +3,7 @@
 
 namespace DrawingApp {
 
-	public interface Printing {
+	public interface IShape {
 		string Print();
 	}
 	

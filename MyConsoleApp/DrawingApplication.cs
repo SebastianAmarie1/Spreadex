@@ -9,7 +9,7 @@ class DrawingApplication {
 	static void Main(string[] args) {
 
         //Create the Objects
-		var shapes = new List<Printing> {
+		var shapes = new List<IShape> {
 			new Rectangle { X = 10, Y = 10, Width = 30, Height = 40 },
             new Square { X = 15, Y = 30, Size = 35 },
             new Ellipse { X = 100, Y = 150, DiameterH = 300, DiameterV = 200 },

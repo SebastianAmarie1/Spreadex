@@ -3,7 +3,7 @@
 
 namespace DrawingApp {
 
-	public class Shape : Printing {
+	public class Shape : IShape {
 
 		public int X { get; set; }
 		public int Y { get; set; }
